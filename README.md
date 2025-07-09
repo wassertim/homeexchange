@@ -105,6 +105,8 @@ This site is designed for static hosting and can be deployed to:
 - Uses Bootstrap for responsive design
 - Custom styles are organized by component
 
+**Note:** The `src/assets/css/` directory is not tracked in git, as it contains compiled assets generated from the SCSS files in `src/assets/scss`. To build these assets locally, run the appropriate build script (see Development).
+
 ### Configuration
 
 - Site configuration is in `src/_data/site.js`

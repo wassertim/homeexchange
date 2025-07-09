@@ -7,16 +7,13 @@
 @use '../abstracts/functions' as *;
 
 .nav-toggle {
-  display: none;
+  display: flex;
   @include button-reset;
   z-index: z('mobile-menu-button');
   position: relative;
   @include hover-scale();
-
-  @include mobile {
-    display: flex;
-  }
 }
+
 
 .burger-menu {
   display: flex;
