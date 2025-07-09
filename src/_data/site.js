@@ -2,10 +2,10 @@ const isProduction = process.env.ELEVENTY_ENV === "production";
 
 module.exports = {
   title: {
-    en: "HomeExchange Guide - Lindau Apartment"
+    en: "Thun"
   },
   description: {
-    en: "Your comprehensive guide to our apartment in Lindau, Lake Constance"
+    en: "Your guide to our home in Thun"
   },
   url: isProduction ? "https://homeexchange-guide.example.com" : "http://localhost:8080",
   author: {
