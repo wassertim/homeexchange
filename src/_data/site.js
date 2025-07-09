@@ -33,19 +33,11 @@ module.exports = {
       {
         text: "Coffee Machine",
         url: "/en/coffee-machine/"
-      },
-      {
-        text: "Departure",
-        url: "/en/departure/"
-      },
+      },      
       {
         text: "Restaurants",
         url: "/en/restaurants/"
-      },
-      {
-        text: "Transportation",
-        url: "/en/transportation/"
-      },
+      },      
       {
         text: "Excursions",
         url: "/en/excursions/"
@@ -53,10 +45,6 @@ module.exports = {
       {
         text: "Waste & Recycling",
         url: "/en/garbage/"
-      },
-      {
-        text: "Troubleshooting",
-        url: "/en/troubleshooting/"
       },
       {
         text: "Emergency",
