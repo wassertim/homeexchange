@@ -1,0 +1,36 @@
+<header class="site-header">
+    <div class="header-container">
+        <div class="site-brand">
+            <a href="/{{ lang }}/" class="site-title">
+                {{ site.title[lang] or site.title.en }}
+            </a>
+        </div>
+        
+        <!-- Burger Menu Button -->
+        <button class="nav-toggle" 
+                aria-expanded="false" 
+                aria-controls="main-navigation"
+                aria-label="Open menu">
+            <div class="burger-menu">
+                <span class="burger-line"></span>
+                <span class="burger-line"></span>
+                <span class="burger-line"></span>
+            </div>
+        </button>
+        
+        <!-- Navigation Menu -->
+        <nav class="main-nav" id="main-navigation">
+            <ul class="nav-list">
+                {% for item in site.navigation[lang] or site.navigation.en %}
+                    <li class="nav-item">
+                        <a href="{{ item.url }}" 
+                           class="nav-link {% if page.url == item.url %}active{% endif %}">
+                            {{ item.text }}
+                        </a>
+                    </li>
+                {% endfor %}
+            </ul>
+        </nav>
+
+    </div>
+</header>
