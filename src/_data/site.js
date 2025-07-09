@@ -16,8 +16,11 @@ module.exports = {
   languages: {
     en: {
       code: "en",
-      name: "English",
-      flag: "🇺🇸"
+      name: "English"
+    },
+    de: {
+      code: "de",
+      name: "Deutsch"
     }
   },
   navigation: {
@@ -33,23 +36,7 @@ module.exports = {
       {
         text: "Coffee Machine",
         url: "/en/coffee-machine/"
-      },      
-      {
-        text: "Restaurants",
-        url: "/en/restaurants/"
-      },      
-      {
-        text: "Excursions",
-        url: "/en/excursions/"
       },
-      {
-        text: "Waste & Recycling",
-        url: "/en/garbage/"
-      },
-      {
-        text: "Emergency",
-        url: "/en/emergency/"
-      }
     ]
   },
   buildTime: new Date()

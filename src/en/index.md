@@ -40,10 +40,6 @@ We're delighted you've chosen our apartment for your stay in Thun. We hope you'l
 
 - **House Rules:** Check our [house rules](/en/house-rules/) for guidelines on maintaining the apartment.
 
-## Garbage and Recycling
-
-Please see the [garbage and recycling guide](/en/garbage/) for information on how to dispose of waste and recyclables properly.
-
 ## Drinking Water and Tap Water
 
 Tap water in Thun is very clean and safe to drink.
@@ -52,15 +48,9 @@ Tap water in Thun is very clean and safe to drink.
 
 - **Grocery Stores:** The closest supermarket is [Coop Baelliz](https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/5378/coop-supermarkt-thun-baelliz.html) - just 3 minutes away by foot. It is small, but you can find most of the essentials there. If you need a larger selection, you can visit [Migros](https://filialen.migros.ch/de/migros-supermarkt-thun-baelliz), or [Coop City](https://www.coop.ch/de/unternehmen/standorte-und-oeffnungszeiten/detail.html/2193/coop-city-city-thun-kyburg.html) a little further away, but still within 6 minutes by foot :) At the train station, you can find a [Coop](https://filialen.migros.ch/de/migros-supermarkt-thun-baelliz) which is open until 10 PM and also on Sundays.
 
-- **Restaurants:** Check out our [restaurant recommendations](/en/restaurants/).
-
 - **Transportation:** The Thun train station is just a 8-Minute walk from the apartment. From there, you can reach Spiez, Interlaken, Bern and many other places. The bus stop is also nearby. With the bus, you can reach Oberhofen and Sigriswil, which are located on the Lake Thun. Near the train station, you will find the boat station, where you can take a boat trip on Lake Thun. Check the [Thun boat schedule](https://www.bls-schiff.ch/de/schifffahrt/fahrplan) for more information or the SBB app.
 
 ## Things to Do
-
-### Outdoor Activities
-
-There are many beautiful places to visit in the region, including the famous Jungfrau region, Lakes Thun and Brienz and many more. Check the [excursions guide](/en/excursions/), which we have prepared for you.
 
 ### Culture and Events
 
