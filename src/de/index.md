@@ -16,7 +16,7 @@ Wir freuen uns sehr, euch bei uns zu haben. Wir hoffen, dass ihr euch hier genau
 
 - **WLAN:** WLAN ist in der ganzen Wohnung verfügbar. Die Zugangsdaten findet ihr auf dem Esstisch.
 
-- **Check-out:** Bitte schließt die Tür und werft den Schlüssel in den Briefkasten.
+- **Check-out:** Bitte schliesst die Tür und werft den Schlüssel in den Briefkasten.
 
 ## Die Wohnung auf einen Blick
 
@@ -24,13 +24,13 @@ Wir freuen uns sehr, euch bei uns zu haben. Wir hoffen, dass ihr euch hier genau
 
 - **Wohnzimmer:** Im Wohnzimmer gibt es auch ein Apple TV mit Netflix und anderen Streaming Services. Meldet euch einfach mit eurem eigenen Account an, wenn ihr Filme oder Serien schauen wollt.
 
-- **Schlafzimmer:** Die Wohnung hat ein größeres Schlafzimmer mit Doppelbett und ein kleineres Schlafzimmer mit einer Couch, die sich zu einem Bett umbauen lässt. Das kleinere Bettzimmer nutzen wir als ein Büro, ihr könnt natürlich es auch tun. Auf dem Schreibtisch gibt es einen grossen Bildschirm zu Verfügung. Beide Zimmer haben Schränke, in denen wir Platz für eure Kleidung schaffen.
+- **Schlafzimmer:** Die Wohnung hat ein grösseres Schlafzimmer mit Doppelbett und ein kleineres Schlafzimmer mit einer Couch, die sich zu einem Bett umbauen lässt. Das kleinere Bettzimmer nutzen wir als ein Büro, ihr könnt natürlich es auch tun. Auf dem Schreibtisch gibt es einen grossen Bildschirm zu Verfügung. Beide Zimmer haben Schränke, in denen wir Platz für eure Kleidung schaffen.
 
 - **Badezimmer:** Hier findet ihr Duschgel, Shampoo und einen Föhn. Zusätzliche Handtücher gibt es im Schrank im kleinen Schlafzimmer. Die Waschmaschine steht ebenfalls im Bad und kann gerne genutzt werden.
 
 ## Während eures Aufenthalts
 
-- **Snacks:** Für den ersten Hunger haben wir für euch Würste, Käse und Joghurt in den Kühlschrank gelegt – außerdem eine Pizza liegt im Gefrierfach :)
+- **Snacks:** Für den ersten Hunger haben wir für euch Würste, Käse und Joghurt in den Kühlschrank gelegt – ausserdem eine Pizza liegt im Gefrierfach :)
 
 - **Kaffee & Tee:** Teebeutel und Kaffeebohnen gibt es auch in der Küche, bedient euch. Die Anleitung für die Kaffeemaschine findet ihr [hier](/de/coffee-machine/). Der Wasserkocher steht im Eck am Küchenfenster.
 
@@ -66,5 +66,5 @@ Bei Fragen oder Problemen erreicht ihr uns jederzeit per WhatsApp oder Telefon (
 
 Wir wünschen euch einen unvergesslichen Aufenthalt in Thun. Wenn ihr etwas braucht, gebt uns jederzeit Bescheid!
 
-Liebe Grüße  
+Liebe Grüsse  
 Maria & Tim

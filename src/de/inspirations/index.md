@@ -20,7 +20,7 @@ Wenn euch Kultur und Konzerte interessieren, gibt es in Thun zahlreiche Veransta
 
 ## Natur & Parks
 
-- Unser Lieblingsspaziergang: Entlang der Aare (Aarenquai) beginnt direkt vor der Haustür – einfach Richtung Thunersee laufen und Wasser, Vögel und Bergpanorama genießen.
+- Unser Lieblingsspaziergang: Entlang der Aare (Aarenquai) beginnt direkt vor der Haustür – einfach Richtung Thunersee laufen und Wasser, Vögel und Bergpanorama geniessen.
 - Der [Schadaupark](https://www.schloss-schadau.ch/en/park-and-surroundings/english-garden) bietet eine beeindruckende Aussicht auf die Berge und den Thunersee. Für Kinder gibt es hier eine kleine Bahn – Fahrzeiten [hier](https://www.dampfbahn-schadaupark.ch/fahrplan/). Im Park steht auch das [Schloss Schadau](https://www.schloss-schadau.ch/).
 
 ## Wanderungen / Spaziergaenge

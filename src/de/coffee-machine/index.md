@@ -8,7 +8,7 @@ lang: de
 
 # Kaffeemaschine – Benutzerhandbuch
 
-Mit unserer Sage The Oracle Kaffeemaschine könnt ihr Kaffee wie Baristas direkt in unserer Küche genießen. Hier eine kurze Anleitung für Espresso und aufgeschäumte Milch.
+Mit unserer Sage The Oracle Kaffeemaschine könnt ihr Kaffee wie Baristas direkt in unserer Küche geniessen. Hier eine kurze Anleitung für Espresso und aufgeschäumte Milch.
 
 ## Maschine einschalten
 
@@ -26,9 +26,9 @@ Mit unserer Sage The Oracle Kaffeemaschine könnt ihr Kaffee wie Baristas direkt
 
 - Setzt den Siebträger in die Brühgruppe ein.
 
-- Wählt die gewünschte Tassengröße. Die passenden Tassen sind ebenfalls über der Kaffeemaschine im Schrank.
+- Wählt die gewünschte Tassengrösse. Die passenden Tassen sind ebenfalls über der Kaffeemaschine im Schrank.
 
-- Für entkoffeinierten Kaffee ist der Mahlgrad schon eingestellt. Läuft der Kaffee zu schnell durch, stellt feiner (linker Regler, kleinere Zahl). Läuft er zu langsam, stellt gröber (größere Zahl).
+- Für entkoffeinierten Kaffee ist der Mahlgrad schon eingestellt. Läuft der Kaffee zu schnell durch, stellt feiner (linker Regler, kleinere Zahl). Läuft er zu langsam, stellt grober (grössere Zahl).
 
 - Bei einem einfachen Espresso drückt ihr die 1-Tassen-Taste (30 Sekunden Bezug). Für einen doppelten Espresso oder zwei Tassen nutzt die 2-Tassen-Taste (40 Sekunden Bezug).
 

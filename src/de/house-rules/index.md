@@ -14,16 +14,12 @@ lang: de
 
 - **Reinigt die Kaffeemaschine (Brühgruppe, Milchaufschäumer und Milchbehälter) nach jeder Benutzung.**
 
-- **Bitte Essensreste vor dem Einräumen in die Spülmaschine in die Bioabfall-Tonne entsorgen.**
-
 - **Messer, Töpfe und Pfannen nicht in die Spülmaschine geben, sondern von Hand abwaschen.**
 
-- **Beachtet die Anleitungen zur Mülltrennung und -entsorgung.**
-
-- **Alle Fenster schließen, wenn ihr die Wohnung verlasst oder bei Regen.**
+- **Alle Fenster schliessen, wenn ihr die Wohnung verlässt oder bei Regen.**
 
 - **Partys sind nicht erlaubt.**
 
-- **Gießt die Pflanzen, wenn die Erde trocken ist.**
+- **Giesst die Pflanzen, wenn die Erde trocken ist.**
 
 - **Bitte verlasst die Wohnung so, wie ihr sie vorgefunden habt.**
