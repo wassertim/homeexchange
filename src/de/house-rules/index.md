@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Hausordnung & Hinweise
+menuTitle: Hausordnung
 description: Hinweise zur Nutzung und Pflege der Wohnung
 lang: de
 ---

@@ -17,20 +17,19 @@
                 <span class="burger-line"></span>
             </div>
         </button>
-        
+
         <!-- Navigation Menu -->
         <nav class="main-nav" id="main-navigation">
             <ul class="nav-list">
-                {% for item in site.navigation[lang] or site.navigation.en %}
+                {% for page in collections.pages_de %}
                     <li class="nav-item">
-                        <a href="{{ item.url }}" 
-                           class="nav-link {% if page.url == item.url %}active{% endif %}">
-                            {{ item.text }}
+                        <a href="{{ page.url }}" 
+                           class="nav-link {% if page.url == page.url %}active{% endif %}">
+                            {{ page.data.menuTitle }}
                         </a>
                     </li>
                 {% endfor %}
             </ul>
         </nav>
-
     </div>
 </header>
