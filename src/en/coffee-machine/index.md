@@ -1,34 +1,45 @@
 ---
 layout: layouts/page.njk
-title: Coffee Machine - User Guide
+title: Coffee Machine – User Manual
+menuTitle: Coffee Machine
 description: How to use the Sage The Oracle coffee machine
 lang: en
 ---
 
-# Coffee Machine - User Guide
+# Coffee Machine – User Manual
 
-Our Sage The Oracle coffee machine allows you to enjoy barista-quality coffee right in our kitchen. Here is a quick guide on how to prepare espresso and froth milk.
+With our Sage The Oracle coffee machine, you can enjoy barista-quality coffee right in our kitchen. Here's a short guide for espresso and frothed milk.
 
-## Starting the Coffee Machine:
+## Turning on the Machine
 
-- Turn on the machine using the power switch on the front.
-- Wait until the machine heats up to 93 degrees. The current status and temperature are displayed on the screen.
+- Turn on the machine with the power switch on the front.
 
-## Preparing Espresso:
+- Wait until the machine heats up to 93 degrees. Current status and temperature are shown on the display.
 
-- In the cabinet above the coffee machine, you will find coffee beans - both regular and decaffeinated coffee.
-- Fill the coffee container with the selected coffee. You can use an espresso cup as a measuring cup to measure the right amount.
-- For a single shot espresso, you should use the special single-shot filter basket located in the removable drip tray. For a double espresso (Double Shot) or two cups, use the regular filter basket.
+## Preparing Espresso
+
+- In the cabinet above the coffee machine you'll find coffee beans – both regular and decaffeinated.
+
+- Fill the beans into the container. You can use an espresso cup for measuring.
+
+- For a single espresso, use the special single-shot filter insert (located in the removable drip tray). For a double espresso (double shot) or two cups, use the normal filter insert.
+
 - Insert the portafilter into the brew group.
-- Select the desired cup size. The corresponding coffee cups can also be found in the cabinet above the coffee machine.
-- The grind size has been set for decaffeinated coffee. If the extraction runs too fast, adjust to a finer grind size using the left control (lower number). If it runs too slow, adjust to a coarser grind size (higher number).
-- For a single shot espresso, press the 1-cup button (30 seconds extraction). For a double espresso or two cups, use the 2-cup button (40 seconds extraction).
 
-## Frothing Milk:
+- Select the desired cup size. The appropriate cups are also in the cabinet above the coffee machine.
 
-- Fill the milk pitcher up to the mark with milk. For using oat milk, you can use Oatly Barista Oat Milk from the pantry in the hallway.
-- Position the milk pitcher under the milk frother and select the desired froth level.
-- Start the milk frother (turn the right control down for automatic operation; up for manual operation) and wait until the milk reaches the perfect consistency and the temperature does not exceed 65 degrees Celsius.
-- After each frothing, clean the frothing nozzle with a wet cloth.
+- For decaffeinated coffee, the grind size is already set. If the coffee runs through too fast, adjust finer (left control, smaller number). If it runs too slow, adjust coarser (larger number).
 
-Now you can combine your espresso with the frothed milk to create the perfect cappuccino or latte macchiato. Enjoy your coffee!
+- For a single espresso, press the 1-cup button (30 seconds extraction). For a double espresso or two cups, use the 2-cup button (40 seconds extraction).
+
+## Frothing Milk
+
+- Fill milk up to the marking in the milk pitcher.
+
+- Place the pitcher under the milk frother and select the foam level.
+
+- Start the milk frother (right control down for automatic, up for manual) and wait until the milk reaches the perfect consistency and max. 65 degrees.
+
+- Important note: After each frothing, clean the nozzle with a damp cloth.
+
+Now you can combine the espresso with the frothed milk to make a cappuccino or latte macchiato. Enjoy!

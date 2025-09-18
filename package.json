@@ -10,6 +10,7 @@
     "prestart": "npm run sass:dev",
     "start": "npm run sass:watch & eleventy --serve --port=8080",
     "dev": "npm run sass:watch & eleventy --serve --port=8080",
+    "dev:private": "npx http-server private-info -p 8081 -o",
     "build": "ELEVENTY_ENV=production eleventy",
     "debug": "DEBUG=Eleventy* eleventy",
     "clean": "rm -rf _site src/assets/css/main.css src/assets/css/main.css.map"

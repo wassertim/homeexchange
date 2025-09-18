@@ -30,7 +30,7 @@ Wir freuen uns sehr, euch bei uns zu haben. Wir hoffen, dass ihr euch hier genau
 
 ## Während eures Aufenthalts
 
-- **Snacks:** Für den ersten Hunger haben wir für euch Würste, Käse und Joghurt in den Kühlschrank gelegt – ausserdem eine Pizza liegt im Gefrierfach :)
+- **Snacks:** Für den ersten Hunger haben wir für euch Käse und Joghurt in den Kühlschrank gelegt – ausserdem eine Pizza liegt im Gefrierfach :)
 
 - **Kaffee & Tee:** Teebeutel und Kaffeebohnen gibt es auch in der Küche, bedient euch. Die Anleitung für die Kaffeemaschine findet ihr [hier](/de/coffee-machine/). Der Wasserkocher steht im Eck am Küchenfenster.
 

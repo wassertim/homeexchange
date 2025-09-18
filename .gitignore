@@ -4,3 +4,8 @@ node_modules
 # Ignore generated CSS files (output from SCSS builds)
 src/assets/css/
 .streetrace
+
+# Private information (WiFi QR codes, personal info sheets)
+private-info/
+.DS_Store
+CLAUDE.md

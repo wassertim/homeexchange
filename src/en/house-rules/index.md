@@ -1,28 +1,25 @@
 ---
 layout: layouts/page.njk
-title: House Rules and Care Instructions
-description: Guidelines for maintaining the apartment and ensuring a pleasant stay
+title: House Rules & Notes
+menuTitle: House Rules
+description: Notes on using and caring for the apartment
 lang: en
 ---
 
-# House Rules and Care Instructions
+# House Rules & Notes
 
-- **No smoking in the apartment.**
+- **Smoking is not allowed in the apartment.**
 
-- **Remove shoes when entering the apartment.**
+- **Please remove your shoes when entering the apartment.**
 
-- **Clean the coffee machine (brew group, milk frother, and milk container) after each use.**
+- **Clean the coffee machine (brew group, milk frother and milk container) after each use.**
 
-- **When loading the dishwasher, scrape food residues into the organic waste bin first.**
+- **Do not put knives, pots and pans in the dishwasher, but wash them by hand.**
 
-- **Do not wash knives, pots, and pans in the dishwasher. Hand wash these items instead.**
-
-- **Follow the provided instructions for proper waste separation and disposal.**
-
-- **Close all windows when leaving the apartment and during rainy weather.**
+- **Close all windows when you leave the apartment or when it rains.**
 
 - **Parties are not allowed.**
 
-- **Please water the plants if the soil is dry.**
+- **Water the plants if the soil is dry.**
 
-- **Leave the apartment in the same condition you found it upon arrival.**
+- **Please leave the apartment as you found it.**
