@@ -21,7 +21,8 @@
         <!-- Navigation Menu -->
         <nav class="main-nav" id="main-navigation">
             <ul class="nav-list">
-                {% for page in collections.pages_de %}
+                {% set currentPages = collections['pages_' + lang] %}
+                {% for page in currentPages %}
                     <li class="nav-item">
                         <a href="{{ page.url }}" 
                            class="nav-link {% if page.url == page.url %}active{% endif %}">
