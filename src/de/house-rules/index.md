@@ -4,6 +4,7 @@ title: Hausordnung & Hinweise
 menuTitle: Hausordnung
 description: Hinweise zur Nutzung und Pflege der Wohnung
 lang: de
+menuOrder: 2
 ---
 
 # Hausordnung & Hinweise

@@ -4,6 +4,7 @@ title: Welcome to our apartment in Thun!
 menuTitle: Welcome
 description: Your comprehensive guide to our apartment in Thun, Switzerland
 lang: en
+menuOrder: 1
 ---
 
 # Welcome to our apartment!

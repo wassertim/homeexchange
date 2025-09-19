@@ -4,6 +4,7 @@ title: Garbage Disposal
 menuTitle: Garbage
 description: Guide for proper waste disposal in Thun
 lang: en
+menuOrder: 3
 ---
 
 # Garbage Disposal

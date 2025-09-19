@@ -4,6 +4,7 @@ title: Shops in the City Center
 menuTitle: Shopping
 description: Your comprehensive guide to our apartment in Thun, Switzerland
 lang: en
+menuOrder: 6
 ---
 
 ## Shopping and Dining

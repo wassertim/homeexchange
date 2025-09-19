@@ -4,6 +4,7 @@ title: Willkommen in unserer Wohnung in Thun!
 menuTitle: Wilkommen
 description: Euer umfassender Guide für unsere Wohnung in Thun, Schweiz
 lang: de
+menuOrder: 1
 ---
 
 # Willkommen in unserer Wohnung!

@@ -4,6 +4,7 @@ title: House Rules & Notes
 menuTitle: House Rules
 description: Notes on using and caring for the apartment
 lang: en
+menuOrder: 2
 ---
 
 # House Rules & Notes

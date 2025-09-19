@@ -4,6 +4,7 @@ title: What to Do in Thun
 menuTitle: What to Do
 description: Your comprehensive guide to our apartment in Thun, Switzerland
 lang: en
+menuOrder: 5
 ---
 
 # What to Do in Thun

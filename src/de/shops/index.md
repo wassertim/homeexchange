@@ -4,6 +4,7 @@ title: Shops in der Innenstadt
 menuTitle: Einkaufen
 description: Euer umfassender Guide für unsere Wohnung in Thun, Schweiz
 lang: de
+menuOrder: 6
 ---
 
 ## Einkaufen und Essen gehen

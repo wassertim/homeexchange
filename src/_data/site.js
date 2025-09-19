@@ -25,51 +25,5 @@ module.exports = {
       name: "Deutsch"
     }
   },
-  navigation: {
-    en: [
-      {
-        text: "Welcome",
-        url: "/en/"
-      },
-      {
-        text: "House Rules",
-        url: "/en/house-rules/"
-      },
-      {
-        text: "Coffee Machine",
-        url: "/en/coffee-machine/"
-      },
-      {
-        text: "What to Do",
-        url: "/en/inspirations/"
-      },
-      {
-        text: "Shopping",
-        url: "/en/shops/"
-      }
-    ],
-    de: [
-      {
-        text: "Willkommen",
-        url: "/de/"
-      },
-      {
-        text: "Hausordnung",
-        url: "/de/house-rules/"
-      },
-      {
-        text: "Kaffeemaschine",
-        url: "/de/coffee-machine/"
-      },
-      {
-        text: "Was tun",
-        url: "/de/inspirations/"
-      },
-      {
-        text: "Einkaufen",
-        url: "/de/shops/"
-      }
-    ]
-  },
   buildTime: new Date()
 };

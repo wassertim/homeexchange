@@ -4,6 +4,7 @@ title: Müllentsorgung
 menuTitle: Müll
 description: Anleitung zur ordnungsgemässen Abfallentsorgung in Thun
 lang: de
+menuOrder: 3
 ---
 
 # Müllentsorgung

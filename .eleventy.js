@@ -82,7 +82,11 @@ module.exports = function (eleventyConfig) {
   });
 
   function allPages(lang, collectionApi) {
-    return collectionApi.getFilteredByGlob(`src/${lang}/**/*.md`).reverse();
+    return collectionApi.getFilteredByGlob(`src/${lang}/**/*.md`).sort((a, b) => {
+      const orderA = a.data.menuOrder || 999;
+      const orderB = b.data.menuOrder || 999;
+      return orderA - orderB;
+    });
   }
 
   // Markdown configuration

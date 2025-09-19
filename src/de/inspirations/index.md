@@ -4,6 +4,7 @@ title: Was tun in Thun
 menuTitle: Was tun
 description: Euer umfassender Guide für unsere Wohnung in Thun, Schweiz
 lang: de
+menuOrder: 5
 ---
 
 # Was tun in Thun

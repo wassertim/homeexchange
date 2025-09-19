@@ -4,6 +4,7 @@ title: Coffee Machine – User Manual
 menuTitle: Coffee Machine
 description: How to use the Sage The Oracle coffee machine
 lang: en
+menuOrder: 4
 ---
 
 # Coffee Machine – User Manual

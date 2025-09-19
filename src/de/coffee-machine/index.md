@@ -4,6 +4,7 @@ title: Kaffeemaschine – Benutzerhandbuch
 menuTitle: Kaffeemaschine
 description: So benutzt ihr die Sage The Oracle Kaffeemaschine
 lang: de
+menuOrder: 4
 ---
 
 # Kaffeemaschine – Benutzerhandbuch
