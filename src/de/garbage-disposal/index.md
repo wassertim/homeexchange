@@ -37,11 +37,11 @@ Der Mülleimer befindet sich **unter der Spüle** in der Küche.
 
 **Müllsäcke, Papier und Glasflaschen** müssen entsorgt werden bei:
 **Bälliz Recycling-Stelle**
-📍 [Standort auf Karte anzeigen](https://share.google/Qx0jrAAULAQsau8Qt)
+📍 [Standort auf Karte anzeigen](https://maps.app.goo.gl/m4QvC4XodAk1y86y5)
 
 **Plastikflaschen** müssen entsorgt werden bei:
 **Coop oder Migros**
-📍 [Standort auf Karte anzeigen](https://share.google/xzyjEibUb0rHevY4R)
+📍 [Standort auf Karte anzeigen](https://maps.app.goo.gl/5oHWfakcm4CrrTVv5)
 
 ## Zusammenfassung
 

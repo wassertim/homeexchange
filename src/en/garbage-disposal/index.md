@@ -37,11 +37,11 @@ The garbage container is located **under the sink** in the kitchen.
 
 **General waste bags, paper, and glass bottles** must be disposed of at:
 **Bälliz Recycling Point**
-📍 [View location on map](https://share.google/Qx0jrAAULAQsau8Qt)
+📍 [View location on map](https://maps.app.goo.gl/m4QvC4XodAk1y86y5)
 
 **Plastic bottles** must be disposed of at:
 **Coop or Migros**
-📍 [View location on map](https://share.google/xzyjEibUb0rHevY4R)
+📍 [View location on map](https://maps.app.goo.gl/5oHWfakcm4CrrTVv5)
 
 ## Summary
 
